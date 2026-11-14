@@ -1,5 +1,5 @@
 window.RECIPE_DATA = {
- "updated": "2026-10-09",
+ "updated": "2026-11-14",
  "ingredients": [
   "粗枝大蔥",
   "品鮮蘑菇",
@@ -19,7 +19,8 @@ window.RECIPE_DATA = {
   "萌綠玉米",
   "醒腦咖啡豆",
   "沉甸甸南瓜",
-  "嫩亮酪梨"
+  "嫩亮酪梨",
+  "一口堅果"
  ],
  "categories": {
   "咖哩": [
@@ -129,6 +130,17 @@ window.RECIPE_DATA = {
      "哞哞鮮奶": 10,
      "好眠番茄": 15,
      "放鬆可可": 12
+    }
+   },
+   {
+    "name": "種子炸彈烤餅咖哩",
+    "bonus": 25,
+    "energy": 7950,
+    "total": 39,
+    "ingredients": {
+     "萌綠玉米": 12,
+     "沉甸甸南瓜": 12,
+     "一口堅果": 15
     }
    },
    {
@@ -297,6 +309,18 @@ window.RECIPE_DATA = {
    }
   ],
   "沙拉": [
+   {
+    "name": "打草結沙拉捲",
+    "bonus": 82,
+    "energy": 26350,
+    "total": 121,
+    "ingredients": {
+     "暖暖薑": 36,
+     "好眠番茄": 33,
+     "嫩亮酪梨": 22,
+     "一口堅果": 30
+    }
+   },
    {
     "name": "大塊滿滿熱水沙拉",
     "bonus": 61,
@@ -620,6 +644,18 @@ window.RECIPE_DATA = {
     }
    },
    {
+    "name": "美味尾巴蛋糕捲",
+    "bonus": 61,
+    "energy": 19846,
+    "total": 91,
+    "ingredients": {
+     "特選蛋": 33,
+     "美味尾巴": 10,
+     "萌綠大豆": 22,
+     "一口堅果": 26
+    }
+   },
+   {
     "name": "電光香料可樂",
     "bonus": 61,
     "energy": 17494,
@@ -897,6 +933,7 @@ window.RECIPE_DATA = {
   "萌綠玉米": "img/corn.webp",
   "醒腦咖啡豆": "img/coffee.webp",
   "沉甸甸南瓜": "img/pumpkin.webp",
-  "嫩亮酪梨": "img/avocado.webp"
+  "嫩亮酪梨": "img/avocado.webp",
+  "一口堅果": "img/nuts.webp"
  }
 };
